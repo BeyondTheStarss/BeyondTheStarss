@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @BeyondTheStarss
-- 👀 I’m interested in Minecraft and subnautica!
-- 🌱 I’m currently learning making mods for minecraft
-- 📫 How to reach me The_Beyond#0093 in discord!
+chaotic plural
+minecraft and subnautica enjoyer
 
 <!---
 BeyondTheStarss/BeyondTheStarss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
